@@ -3,7 +3,7 @@
 
 int main(void) {
 	printf("Be happy!");
-	printf("pause");
+	system("pause");
 
 	return 0;
 }

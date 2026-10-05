@@ -1,8 +1,8 @@
-#include <stdio.h>
+ï»¿#include <stdio.h>
 
 int main(void) {
 
-	printf("¾È³çÇÏ¼¼¿ä");
+	printf("ì•ˆë…•í•˜ì„¸ìš”");
 
 	return 0;
 }
